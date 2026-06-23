@@ -11,8 +11,7 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# Dataset local (demasiado grande para Git)
-application_train.csv
+# Dataset local comprimido y credenciales de Kaggle
 application_train.csv.zip
 kaggle.json
 
