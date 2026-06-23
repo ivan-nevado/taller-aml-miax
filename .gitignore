@@ -11,6 +11,9 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
+# Cache de Keras Tuner (resultados de cada trial, no necesario en el repo)
+kt_tuner/
+
 # Dataset local (demasiado grande para Git)
 application_train.csv
 application_train.csv.zip

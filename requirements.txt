@@ -3,3 +3,8 @@ numpy
 scikit-learn
 jupyter
 matplotlib
+seaborn
+tensorflow
+keras
+keras-tuner
+tensorboard
