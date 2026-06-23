@@ -1,0 +1,3 @@
+Modelo,Accuracy,ROC-AUC,F1
+Base,0.6975,0.7413,0.2599
+Custom,0.6953,0.7393,0.2554
