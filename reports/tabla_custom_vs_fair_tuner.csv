@@ -1,0 +1,4 @@
+Modelo,Accuracy,ROC-AUC,F1,"|Corr(pred, genero)|",Brecha paridad
+Custom (BCE),0.6941,0.7383,0.255,0.2227,0.0891
+Custom + FAIR (lambda=0.2),0.6952,0.7357,0.2548,0.0649,0.0267
+"Custom + FAIR (Tuner, lambda=0.5861)",0.6929,0.7338,0.253,0.0207,0.008
